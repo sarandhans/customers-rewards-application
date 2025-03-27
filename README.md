@@ -18,12 +18,12 @@ The reward points are calculated using the following criteria:
 * loader also added using spinner
 
 **Features**
-Reward Points Calculation
-Monthly Filtering
-Styled Components
-API Simulation
-Unit Testing
-Pagination
+* Reward Points Calculation
+* Monthly Filtering
+* Styled Components
+* API Simulation
+* Unit Testing
+* Pagination
 
 Installation & Setup
 1. Clone the Repository
